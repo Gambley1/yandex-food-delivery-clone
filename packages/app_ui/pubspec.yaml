@@ -18,7 +18,7 @@ dependencies:
   go_router: ^13.2.5
   lucide_icons: ^0.257.0
   pausable_timer: ^3.1.0
-  shadcn_ui: ^0.8.0
+  shadcn_ui: ^0.11.1
   shared:
     path: ../shared
   shimmer: ^3.0.0
